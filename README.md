@@ -1,24 +1,7 @@
 # Gold-Price-forecasting-web-application
 
  <div align="justify"> The Gold Price Prediction Web App is a Django-based application that leverages machine learning techniques to predict gold prices. This detailed overview provides insights into the methodologies, features, technologies used, and the functionality of the application. </div>
-
- [Presentation](https://www.canva.com/design/DAF4tbnq1iY/nN6byRnGjQQlbrBdkqAH0A/edit?utm_content=DAF4tbnq1iY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
-![Overview](https://github.com/shivatejapecheti/Gold-Price-forecasting-web-application/assets/126412107/62567332-eaba-4c7d-afc1-1f31bcc10773)
-
-Technologies Used: <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
 
 ###
 
